@@ -6,7 +6,7 @@ This project applies deep learning techniques to predict customer churn in the t
 
 ## 📁 Dataset Overview
 
-- **Source**: Telco-Customer-Churn.csv  
+- **Source**: [Link to dataset]([https://www.example.com](https://www.kaggle.com/datasets/blastchar/telco-customer-churn))  
 - **Rows**: 7,043  
 - **Columns**: 21 (including customer demographics, service plans, billing info, and churn labels)  
 - **Target**: `Churn` (Yes/No)
